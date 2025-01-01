@@ -172,6 +172,7 @@ body{
 
     .main .section1{
         width: 100%;
+        border-right: none;
     }
 
     .header .header_navbar{
@@ -192,6 +193,7 @@ body{
         border-right: none;
     }
 
+    
 }
 
 
