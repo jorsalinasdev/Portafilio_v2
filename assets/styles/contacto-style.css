@@ -144,9 +144,10 @@ button{
     margin: 3rem auto;
     width: 10rem;
     padding: 1rem;
-    background-color: var(--color-secundario);
-    color: #0000ff;
-    border: 0.2rem solid var(--color-texto-navbar);
+    background-color: var(--color-texto);
+    border: 0.01rem solid var(--color-secundario);
+    color: var();
+    cursor: pointer;
 }
 button:active{
     background-color: #ffc400;
